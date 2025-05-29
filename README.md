@@ -18,7 +18,7 @@ The AFLEX TMS, developed by the African Leadership Excellence Academy, is a web-
 ## Installation & Setup
 1. Clone the repo: `git clone https://github.com/your-username/aflex-tms.git`
 2. Set up a local server (e.g., XAMPP) and place the project in the root directory.
-3. Create a MySQL database `aflex_tms` and import `database/aflex_tms.sql`.
+3. import a MySQL database `db.gz` .
 4. Update `config/db_connect.php` with your database credentials.
 
 ## Dependencies
@@ -28,11 +28,15 @@ The AFLEX TMS, developed by the African Leadership Excellence Academy, is a web-
 - Dashgrin 1.1 (MIT License, Bootstrap 4)
 - Apache Server (via XAMPP/WAMP)
 - Bootstrap 4
+- python 3 or above
+        import pymysql
+        import pandas as pd
+        from sklearn.cluster import KMeans
 
 ## How to Run
 1. Start XAMPP/WAMP (Apache and MySQL).
 2. Access `http://localhost/aflex-tms` in a browser.
-3. Log in with default credentials (username: `admin`, password: `password123`).
+3. Log in with default credentials (username: `admin@admin.com`, password: `Afleex@123`).
 4. Explore via the sidebar menu.
 
 ## Authors

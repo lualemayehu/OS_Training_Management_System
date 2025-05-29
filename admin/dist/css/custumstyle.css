@@ -1,0 +1,5 @@
+
+  .req:after {
+    content:" *";
+    color: red;
+  }

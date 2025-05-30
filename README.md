@@ -1,16 +1,16 @@
 # OS_Training_Management_System
-A software that helps organizations plan, deliver, track, and manage training programs. It streamlines scheduling, automates admin tasks, tracks learner progress, and supports both in-person and online training for improved efficiency and compliance.making it an essential tool for boosting workforce performance and operational efficiency.
+A software that helps organizations plan, deliver, track, and manage training programs. It streamlines scheduling, automates admin tasks, tracks learner progress.making it an essential tool for boosting workforce performance and operational efficiency.
 
 
 ## Project Overview
-The AFLEX TMS, developed by the African Leadership Excellence Academy, is a web-based platform to manage training programs efficiently. Built with PHP, JavaScript, and MySQL, it automates trainee management, scheduling, and document handling. Using the Dashgrin 1.1 template (upgraded from 1.0), it features a green and white UI. Updated on May 28, 2025, at 06:08 PM CEST, it now includes bug fixes, performance improvements, and testing data: 10 customers, 5 trainings, 50 trainees.
+The AFLEX TMS, is a web-based platform to manage training programs efficiently. Built with PHP, JavaScript, and MySQL, it automates trainee management, scheduling, and document handling.
 
 ## Key Features
-- **Dashboard**: Shows metrics (10 customers, 5 trainings, 50 trainees) and trainee stats (by year, gender, region).
-- **Trainee Management**: View, add, and search trainees with details like name, education, and contact info.
+- **Dashboard**: Shows metrics and trainee stats.
+- **Trainee Management**: alows to manage and search trainees.
 - **Training Management**: Schedule and manage training rounds with key details.
 - **Training Documents**: Search and upload training materials.
-- **Scheduling**: Calendar-based room scheduling (highlighted for May 28, 2025).
+- **Scheduling**: Calendar-based room scheduling.
 - **Organization Management**: Tracks customer organization details.
 - **User Management**: Role-based access control and permissions.
 - **Real-Time Updates**: Data updates in real time for accuracy.
